@@ -1,0 +1,24 @@
+{
+  "name": "frontendwithreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahuel101/frontendwithreact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahuel101/frontendwithreact/issues"
+  },
+  "homepage": "https://github.com/nahuel101/frontendwithreact#readme"
+}
